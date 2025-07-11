@@ -1,0 +1,4 @@
+gradio
+torch
+phonemizer
+soundfile
